@@ -1,4 +1,4 @@
-name: actions_python_pylint
+name: pylint
 description: Github action for python linting with pylint
 branding:
   icon: 'check-circle'
